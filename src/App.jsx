@@ -1,5 +1,11 @@
+import Sitenavbar from "./components/site-navbar";
+
 const App = () => {
-  return <div>App</div>;
+  return (
+    <>
+      <Sitenavbar />
+    </>
+  );
 };
 
 export default App;
