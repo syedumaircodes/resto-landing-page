@@ -49,7 +49,7 @@ const BookingSection = () => {
               <span className="text-orange-500 font-medium text-lg shrink-0">
                 {item.number}
               </span>
-              <div clssName="flex flex-col">
+              <div className="flex flex-col">
                 <h3 className="text-xl mb-5">{item.title}</h3>
                 <p className="text-zinc-600">{item.description}</p>
               </div>
