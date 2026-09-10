@@ -3,7 +3,7 @@ import AnimationProvider from "../components/animation-provider";
 import { faqs } from "../data/data";
 const FaqsSection = () => {
   return (
-    <section id="faqs" className="mt-44 px-auto">
+    <section id="faq" className="mt-44 px-auto">
       <div className="max-w-3xl mx-auto">
         <div className="text-center mb-16">
           <AnimationProvider delay={0.2}>

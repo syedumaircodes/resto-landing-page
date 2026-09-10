@@ -2,7 +2,7 @@ import AnimationProvider from "../components/animation-provider";
 import { timingData } from "../data/data";
 const TimmingSection = () => {
   return (
-    <section id="timming" className="px-auto mt-44">
+    <section id="timing" className="px-auto mt-44">
       <AnimationProvider
         scale={0.8}
         y={8}
